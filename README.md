@@ -1,1 +1,1 @@
-# cwiczenia1
+text for init commit# cwiczenia1
